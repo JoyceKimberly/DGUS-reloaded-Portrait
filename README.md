@@ -2,7 +2,7 @@
 
 DWIN T5UID1 touchscreen firmware for 3D printers running Marlin.
 
-Requires using a modified version of Marlin to work properly, which can be found in [this repository](https://github.com/Desuuuu/Marlin).
+Requires using the latest 2.1_bugfix of Marlin to work properly, which can be found in [the official repository](https://github.com/MarlinFirmware/Marlin).
 
 ## Disclaimer
 **This software is provided without any warranty. You are solely responsible for your use of it.**
@@ -44,9 +44,9 @@ Testing has been done on the following machines:
 * Creality Ender 5 Plus
 
 ## Prerequisites
-You have to compile and flash this [modified version of Marlin](https://github.com/Desuuuu/Marlin) with `DGUS_LCD_UI_RELOADED` defined in the configuration.
+You have to compile and flash this [2.1 bugfix version of Marlin](https://github.com/MarlinFirmware/Marlin) with `DGUS_LCD_UI RELOADED` defined in the configuration.
 
-Example Marlin configurations are available in [this repository](https://github.com/Desuuuu/DGUS-reloaded-config).
+Example Marlin configurations are available in [this repository](https://github.com/MarlinFirmware/Configurations).
 
 ## Wiki
 * [Flashing the firmware](https://github.com/Desuuuu/DGUS-reloaded/wiki/Flashing-the-firmware)
