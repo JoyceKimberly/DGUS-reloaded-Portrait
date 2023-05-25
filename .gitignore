@@ -4,3 +4,5 @@ project/image
 project/*.xls
 
 project/DWIN_SET/*.bin
+
+*/.DS_Store
